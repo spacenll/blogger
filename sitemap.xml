@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- ✅ الصفحة الرئيسية -->
+    <url>
+        <loc>https://thetreeinformation.blogspot.com/</loc>
+        <lastmod>2025-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- ✅ قسم المقالات -->
+    <url>
+        <loc>https://thetreeinformation.blogspot.com/search/label/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC</loc>
+        <lastmod>2025-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- ✅ مقالات فردية -->
+    <url>
+        <loc>https://thetreeinformation.blogspot.com/search/label/%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA</loc>
+        <lastmod>2025-02-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://yourwebsite.com/blog/أفضل-برامج-التصميم</loc>
+        <lastmod>2025-02-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://thetreeinformation.blogspot.com/search/label/%D8%A7%D9%81%D8%AA%D8%B1%20%D8%A7%D9%81%D9%83%D8%AA</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- ✅ صفحة "من نحن" -->
+    <url>
+        <loc>https://spacenll.site/contact-main/index.html</loc>
+        <lastmod>2025-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- ✅ صفحة "اتصل بنا" -->
+  
+
+</urlset>
